@@ -27,4 +27,4 @@ Este repositorio contiene 2 programas que nos sirven para ilustrar el funcionami
 
     Donde 'A'*5 genera una cadena de 5 letras AAAAA y le añade el numero hexadecimal en el formato Unicodeescape que es requerido por el programa
 
-  Para el caso del programa CambioValor se te sugiere que emplees el comando siguiente para formar 
+  Para el caso del programa CambioValor se te sugiere que emplees el comando de python para poder resolver el problema que se te plantea en la definición del ejercicio. 
