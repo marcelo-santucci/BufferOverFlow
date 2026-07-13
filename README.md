@@ -10,7 +10,7 @@ Este repositorio contiene 2 programas que nos sirven para ilustrar el funcionami
   Para compilar cualquiera de los dos programas emplea la sintaxis siguiente:
 
 ```
-    gcc nombre_archivo_fuente.c -o nombre_archivo_fuente
+    gcc nombre_archivo.c -o nombre_archivo
 ```
 
 ## 🏃🏻‍♂️‍➡️ Ejecución
