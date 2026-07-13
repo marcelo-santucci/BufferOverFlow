@@ -10,7 +10,7 @@ char clave[TAMANIO_BUFFER] = "passw0rd";
 int main (int argc, char **argv) {
   
   if (argc != 3) {
-    printf("\nUso: %s <clave> <mensaje a imprimir>\n", argv[0]);
+    printf("\nForma de uso: %s <clave> <mensaje a imprimir>\n", argv[0]);
     exit(1);
   }
 
