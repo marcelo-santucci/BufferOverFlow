@@ -1,3 +1,9 @@
+/*
+ *
+ * El objetivo de este programa es que usted logre cambiar el valor de una variable por 0x496c5962
+ *
+ */
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
