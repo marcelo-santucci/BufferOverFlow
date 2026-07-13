@@ -10,7 +10,7 @@
 #include <string.h>
 #include <unistd.h>
 
-#define SALUDO "¡Bienvenido al programa de cambio de valor!"
+#define SALUDO "Seguridad Informática > Programa de cambio de valor predefinido en memoria."
 
 int main(int argc, char **argv) {
   struct {
