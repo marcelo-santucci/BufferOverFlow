@@ -1,6 +1,7 @@
 /*
  *
- * El objetivo de este programa es que usted logre cambiar el valor de una variable por 0x496c5962
+ * El objetivo de este programa es demostrar de que forma un buffer over flow se puede emplear para cambiar el valor de una variable 
+ * la cual simula contener la contraseña de un usuario.
  *
  */
 
